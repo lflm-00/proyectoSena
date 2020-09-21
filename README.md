@@ -1,0 +1,2 @@
+# proyectoSena
+Proyecto grado SENA
